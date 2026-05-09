@@ -9,6 +9,3 @@ This repository contains the figures generated for the manuscript titled **On Pr
 
 ## Generated Figures
 The uploaded figures present the proper lucky labeling of copper oxide structures and their extended networks. Each figure illustrates the corresponding labeling representation and network visualization used in the study.
-
-## Description
-Descriptions and explanations of the generated figures have been included to improve clarity and understanding of the labeling structures and network representations.
